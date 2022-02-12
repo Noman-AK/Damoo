@@ -8,6 +8,7 @@ public class Print{
 		System.out.println("First to push at GitHub");
 		
 	}
+	System.out.println("First to push at GitHub");
 
 	
 }
